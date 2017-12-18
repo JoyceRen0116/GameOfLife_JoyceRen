@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9B171B33-3108-6367-5B4F-E4D79C9B8CDC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/1_Main/Environment.cs">
+    <Files>
+      <File FileName="Assets/Scripts/1_Main/Environment.cs" Line="87" Column="52" />
+      <File FileName="Assets/Scripts/1_Main/Voxel.cs" Line="345" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RC3__LivingArchitecture__WS2__GOL__3 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

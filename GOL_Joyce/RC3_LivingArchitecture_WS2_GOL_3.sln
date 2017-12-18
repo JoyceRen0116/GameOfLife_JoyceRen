@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RC3_LivingArchitecture_WS2_GOL_3", "RC3_LivingArchitecture_WS2_GOL_3.csproj", "{9B171B33-3108-6367-5B4F-E4D79C9B8CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RC3_LivingArchitecture_WS2_GOL_3.Editor", "RC3_LivingArchitecture_WS2_GOL_3.Editor.csproj", "{3EB3FDE2-12B3-EF39-432B-63FABC87B9E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B171B33-3108-6367-5B4F-E4D79C9B8CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B171B33-3108-6367-5B4F-E4D79C9B8CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B171B33-3108-6367-5B4F-E4D79C9B8CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B171B33-3108-6367-5B4F-E4D79C9B8CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB3FDE2-12B3-EF39-432B-63FABC87B9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB3FDE2-12B3-EF39-432B-63FABC87B9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB3FDE2-12B3-EF39-432B-63FABC87B9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB3FDE2-12B3-EF39-432B-63FABC87B9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
